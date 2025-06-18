@@ -12,15 +12,15 @@
         }
         .main-text {
             fill: #ff0000;
-            filter: url(#glow); /* Terapkan efek glow */
+            filter: url(#glow);
             animation: text-flicker 3s infinite alternate;
         }
         .glitch-1 {
-            fill: #00ffff; /* Warna Cyan untuk glitch */
+            fill: #00ffff;
             animation: glitch-anim-1 2s infinite alternate-reverse;
         }
         .glitch-2 {
-            fill: #ff00ff; /* Warna Magenta untuk glitch */
+            fill: #ff00ff;
             animation: glitch-anim-2 3s infinite alternate-reverse;
         }
         .scanline {
@@ -28,19 +28,15 @@
             opacity: 0.3;
             animation: scanline-anim 4s infinite linear;
         }
-
-        /* Keyframes untuk Animasi */
         @keyframes text-flicker {
             0% { opacity: 1; }
             50% { opacity: 0.8; }
             100% { opacity: 1; }
         }
-        
         @keyframes scanline-anim {
             0% { transform: translateY(-10px); }
             100% { transform: translateY(210px); }
         }
-
         @keyframes glitch-anim-1 {
             0%, 100% { transform: translate(0, 0); clip-path: inset(0 0 0 0); }
             5% { transform: translate(3px, -2px); }
@@ -50,7 +46,6 @@
             25%, 95% { clip-path: inset(0 0 0 0); }
             96% { transform: translate(4px, 3px); }
         }
-
         @keyframes glitch-anim-2 {
             0%, 100% { transform: translate(0, 0); }
             10% { transform: translate(-4px, 1px); }
@@ -58,7 +53,6 @@
             80% { transform: translate(0, 0); }
         }
     </style>
-
     <defs>
         <filter id="glow">
             <feGaussianBlur stdDeviation="2.5" result="coloredBlur"></feGaussianBlur>
@@ -68,17 +62,13 @@
             </feMerge>
         </filter>
     </defs>
-
     <rect class="bg" width="100%" height="100%"></rect>
-
     <g class="text">
         <text class="glitch-1" x="50%" y="50%">Team X Nexus</text>
         <text class="glitch-2" x="50%" y="50%">Team X Nexus</text>
         <text class="main-text" x="50%" y="50%">Team X Nexus</text>
     </g>
-
     <rect class="scanline" x="0" y="0" width="100%" height="4px"></rect>
-
 </svg>
 </p>
 
