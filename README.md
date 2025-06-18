@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Team X Nexus Advanced Banner"/>
+  <img src="https://github.com/zxhell27/zxhell27/blob/main/Team%20X%20Nexus.png" alt="Team X Nexus Advanced Banner"/>
 </p>
 <div align="center">
   
