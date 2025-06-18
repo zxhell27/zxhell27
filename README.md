@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="" alt="Team X Nexus Advanced Banner"/>
+</p>
 <div align="center">
   
 **Offensive Security Operator | Adversary Emulation & Red Teaming**
