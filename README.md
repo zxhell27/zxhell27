@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_BANNER_ANDA]" alt="Professional Banner"/>
+  <img src="httpss://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Offensive%20Security&fontSize=80" />
 </p>
 
 ### Offensive Security Operator | Team X Nexus
