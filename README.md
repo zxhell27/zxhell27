@@ -50,6 +50,8 @@ I am an operator within **Team X Nexus**, a collective focused on advanced cyber
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zxhell27&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
 
+[![Hack The Box](https://www.hackthebox.eu/badge/image/HTB-034D5F93EB)](https://app.hackthebox.com/profile/HTB-034D5F93EB)
+
 ### 💻 Top Languages
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxhell27&amp;layout=compact&amp;theme=tokyonight" alt="Top Code" />
