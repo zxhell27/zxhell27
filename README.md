@@ -12,11 +12,7 @@ I am an operator within **Team X Nexus**, a collective focused on advanced cyber
 - 🔭 My current focus: **EDR Evasion & C2 Framework Development.**
 - 🌱 Continuously analyzing: **Latest APT Tactics, Techniques, and Procedures (TTPs).**
 - 📫 Professional Inquiries: **qwertyknock69@gmail.com**
-
----
-
 ### 🛠️ Core Arsenal & Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -31,10 +27,7 @@ I am an operator within **Team X Nexus**, a collective focused on advanced cyber
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
----
-
 ### 📊 Contribution Graph & Stats
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zxhell27&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
