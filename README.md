@@ -12,7 +12,7 @@ I am an operator within **Team X Nexus**, a collective focused on advanced cyber
 
 - 🔭 My current focus: **EDR Evasion & C2 Framework Development.**
 - 🌱 Continuously analyzing: **Latest APT Tactics, Techniques, and Procedures (TTPs).**
-- 📫 Professional Inquiries: **[GANTI_DENGAN_EMAIL_ANDA]**
+- 📫 Professional Inquiries: **qwertyknock69@gmail.com**
 
 ---
 
